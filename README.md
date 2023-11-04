@@ -5,3 +5,4 @@
 ---------------------------
 # Web Fingerprints
 **Browser fingerprints** is a technique, which allows to identify user by a combination of browser properties, like: resolution, plugins list, fonts, navigator properties, etc.
+
