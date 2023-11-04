@@ -1,6 +1,4 @@
 # FingerDB
-----------------------
-###### Collection of Browser-Fingerprints 
 ![image](https://raw.githubusercontent.com/monzaviman/FingerDB/main/images/FingerDB.jpg)
 ---------------------------
 # Browser Fingerprints
